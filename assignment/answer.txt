@@ -1,1 +1,20 @@
+Q1:
 
+1. Notes on data scientists:
+  - median salary: 108,020
+  - education: bachelor's (math, stat, CS, etc)
+  - 36% employment growth
+2. (in spreadsheet)
+3. I was suprised to see how high the employment growth was for data scientists compared to other jobs.
+4. best to worst:
+computer and information research scientist
+data scientist
+software developer
+computer hardware engineer
+aerospace engineer
+mathematician
+statistician
+project management specialist
+architect
+
+I ranked these in this order based off of a combination of the highest median salaries and the predicted employment growth. If they were fairly similar in data, I ranked them based off how difficult they seem and how interested I would be in them.
